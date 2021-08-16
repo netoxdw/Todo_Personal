@@ -1,5 +1,7 @@
 .fixed {
     background-color:dimgray;
+    border-radius: 30px;
+    border-color: brown;
 }
 
 h1 {
@@ -7,9 +9,22 @@ h1 {
     color: rgb(43, 36, 22);
 }
 
-.header {
+.titulo {
     display: inline-flex;
     align-items: center;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+.ItemMenu {
+    color: blanchedalmond;
+}
+
+.header {
+    background-color: black;
+}
+
+.features {
+    display: grid;
+    grid-template: repeat(2, 2fr) / repeat(2, 1fr);
 }
