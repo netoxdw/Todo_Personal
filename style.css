@@ -11,6 +11,7 @@ body{
     width: 90%;
     justify-content:center;
     border-radius: 20px;
+    margin: 50px;
 }
 
 .header-logo > h1 {
@@ -28,16 +29,16 @@ main{
 
 main > h1 {
     font-family: 'Pacifico', cursive;
-    color: white;
+    color: #4e4545;
     font-size: 80px;
 }
 
 main > p {
-    color: white;
+    color: #4e4545;
 }
 
 footer {
-    color: white;
+    color: #4e4545;
     width: 100%;
 }
 .footer-dir-icons{
