@@ -1,5 +1,6 @@
 body{
-
+     height: 1000px;
+     background-color: #24292e;
 }
 
 
@@ -15,7 +16,22 @@ body{
 .header-logo > h1 {
     font-family: 'Homemade Apple', cursive;
     padding: 0 10px;
-    color:black;
+    color:#4e4545;
     font-size: 70px;
 }
 
+main{
+    height: 250px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+main > h1 {
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 80px;
+}
+
+main > p {
+    color: white;
+}
