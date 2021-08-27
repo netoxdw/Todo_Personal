@@ -1,20 +1,21 @@
+body{
 
+}
 
 
 .header-logo {
     display:flex;
-    background: url("https://i.ibb.co/YZYbwZw/gratis-png-diseno-grafico-gris-piel-metal-plateada-placas-de-metal-textura.png") ;
     text-align: center;
-    height: 510px;
-    justify-content: center;
+    height: 520px;
+    width: 90%;
+    justify-content:center;
+    border-radius: 20px;
 }
 
 .header-logo > h1 {
     font-family: 'Homemade Apple', cursive;
     padding: 0 10px;
+    color:black;
+    font-size: 70px;
 }
 
-.navbar-brand {
-    background-color:rgb(211, 203, 203);
-    border-radius: 5%;
-}
