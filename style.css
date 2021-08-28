@@ -14,7 +14,7 @@ body{
 }
 .header-logo {
     display:flex;
-    background-color: #4e4545;
+    background-color: #6d5d5d;
     text-align: center;
     height: 510px;
     width: 887px;
@@ -26,7 +26,8 @@ body{
 .header-logo > h1 {
     font-family: 'Homemade Apple', cursive;
     padding: 0 10px;
-    color:#4e4545;
+    color:#070707
+    ;
     font-size: 70px;
 }
 
