@@ -3,6 +3,12 @@ body{
      background-color: white;
 }
 
+.nav-item {
+    padding: 0 2rem;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+
 .header {
     background-color: #4e4545;
 }
