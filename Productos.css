@@ -5,6 +5,7 @@ body {
 .productos {
     padding-top: 30px;
     text-align: center;
+
 }
  .container {
      /*definir grid*/
@@ -18,6 +19,9 @@ body {
     height: auto;
     width: 100%;
 }
-h4{
+
+.features-products {
     background-color: white;
+    margin: 0 10px;
+    border-radius: 5px;
 }
