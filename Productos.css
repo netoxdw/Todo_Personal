@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+.productos {
+    padding-top: 30px;
+    text-align: center;
+}
+ .container {
+     /*definir grid*/
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+
+    background-color: #4e4545;
+    font-weight: 700;
+    padding: 20px;
+    height: auto;
+    width: 100%;
+}
+h4{
+    background-color: white;
+}
